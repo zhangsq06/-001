@@ -1,0 +1,5 @@
+first: run conda prompt
+second: execute conda update anaconda-navigator choose y
+third: execute anaconda-navigator --reset   
+fourth: execute conda update anaconda-client  and shoose y
+fifth: execute conda update -f anaconda-client and  shoose y
